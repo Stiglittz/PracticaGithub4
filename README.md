@@ -1,2 +1,1 @@
-# PracticaGithub4
-Practica de 3 Elena,Hugo y Daniel
+Mi usuario es Stiglittz en GitHub
